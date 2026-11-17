@@ -1,0 +1,433 @@
+{
+  "snapshot_date": "2026-11-17",
+  "description": "Local installed skill snapshot; user data in upload copies is anonymized.",
+  "skills": [
+    {
+      "name": "agent-performance-report",
+      "folder": "agent-performance-report",
+      "category": "personal",
+      "path": "skills/personal/agent-performance-report",
+      "source": "skills/agent-performance-report"
+    },
+    {
+      "name": "agent-verification",
+      "folder": "agent-verification",
+      "category": "personal",
+      "path": "skills/personal/agent-verification",
+      "source": "skills/agent-verification"
+    },
+    {
+      "name": "hatch-pet",
+      "folder": "hatch-pet",
+      "category": "personal",
+      "path": "skills/personal/hatch-pet",
+      "source": "skills/hatch-pet"
+    },
+    {
+      "name": "opshub-context",
+      "folder": "opshub-context",
+      "category": "personal",
+      "path": "skills/personal/opshub-context",
+      "source": "skills/opshub-context"
+    },
+    {
+      "name": "pricing-on-call-reply-checker",
+      "folder": "pricing-on-call-reply-checker",
+      "category": "personal",
+      "path": "skills/personal/pricing-on-call-reply-checker",
+      "source": "skills/pricing-on-call-reply-checker"
+    },
+    {
+      "name": "schedule-final-offer-appointment",
+      "folder": "schedule-final-offer-appointment",
+      "category": "personal",
+      "path": "skills/personal/schedule-final-offer-appointment",
+      "source": "skills/schedule-final-offer-appointment"
+    },
+    {
+      "name": "send-available-report",
+      "folder": "send-available-report",
+      "category": "personal",
+      "path": "skills/personal/send-available-report",
+      "source": "skills/send-available-report"
+    },
+    {
+      "name": "xa-admin-account-merge",
+      "folder": "xa-admin-account-merge",
+      "category": "personal",
+      "path": "skills/personal/xa-admin-account-merge",
+      "source": "skills/xa-admin-account-merge"
+    },
+    {
+      "name": "xa-notes",
+      "folder": "xa-notes",
+      "category": "personal",
+      "path": "skills/personal/xa-notes",
+      "source": "skills/xa-notes"
+    },
+    {
+      "name": "xa-quick-slack",
+      "folder": "xa-quick-slack",
+      "category": "personal",
+      "path": "skills/personal/xa-quick-slack",
+      "source": "skills/xa-quick-slack"
+    },
+    {
+      "name": "zendesk-record-retrieval",
+      "folder": "zendesk-record-retrieval",
+      "category": "personal",
+      "path": "skills/personal/zendesk-record-retrieval",
+      "source": "skills/zendesk-record-retrieval"
+    },
+    {
+      "name": "imagegen",
+      "folder": "imagegen",
+      "category": "system",
+      "path": "skills/system/imagegen",
+      "source": "skills/.system/imagegen"
+    },
+    {
+      "name": "openai-docs",
+      "folder": "openai-docs",
+      "category": "system",
+      "path": "skills/system/openai-docs",
+      "source": "skills/.system/openai-docs"
+    },
+    {
+      "name": "review-agent",
+      "folder": "review-agent",
+      "category": "system",
+      "path": "skills/system/review-agent",
+      "source": "skills/.system/review-agent"
+    },
+    {
+      "name": "skill-creator",
+      "folder": "skill-creator",
+      "category": "system",
+      "path": "skills/system/skill-creator",
+      "source": "skills/.system/skill-creator"
+    },
+    {
+      "name": "skill-installer",
+      "folder": "skill-installer",
+      "category": "system",
+      "path": "skills/system/skill-installer",
+      "source": "skills/.system/skill-installer"
+    },
+    {
+      "name": "visualize",
+      "folder": "visualize",
+      "category": "plugin",
+      "path": "skills/plugins/openai-bundled/visualize/1.0.55/skills/visualize",
+      "source": "plugins/cache/openai-bundled/visualize/1.0.55/skills/visualize"
+    },
+    {
+      "name": "google-docs",
+      "folder": "google-docs",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/google-drive/0.1.23/skills/google-docs",
+      "source": "plugins/cache/openai-curated-remote/google-drive/0.1.23/skills/google-docs"
+    },
+    {
+      "name": "google-drive",
+      "folder": "google-drive",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/google-drive/0.1.23/skills/google-drive",
+      "source": "plugins/cache/openai-curated-remote/google-drive/0.1.23/skills/google-drive"
+    },
+    {
+      "name": "google-drive-comments",
+      "folder": "google-drive-comments",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/google-drive/0.1.23/skills/google-drive-comments",
+      "source": "plugins/cache/openai-curated-remote/google-drive/0.1.23/skills/google-drive-comments"
+    },
+    {
+      "name": "google-sheets",
+      "folder": "google-sheets",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/google-drive/0.1.23/skills/google-sheets",
+      "source": "plugins/cache/openai-curated-remote/google-drive/0.1.23/skills/google-sheets"
+    },
+    {
+      "name": "google-slides",
+      "folder": "google-slides",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/google-drive/0.1.23/skills/google-slides",
+      "source": "plugins/cache/openai-curated-remote/google-drive/0.1.23/skills/google-slides"
+    },
+    {
+      "name": "artifact-template-analytics-dashboard",
+      "folder": "artifact-template-analytics-dashboard",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard"
+    },
+    {
+      "name": "artifact-template-business-review",
+      "folder": "artifact-template-business-review",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review"
+    },
+    {
+      "name": "artifact-template-design-report",
+      "folder": "artifact-template-design-report",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report"
+    },
+    {
+      "name": "artifact-template-experiment-analysis",
+      "folder": "artifact-template-experiment-analysis",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis"
+    },
+    {
+      "name": "artifact-template-financial-budget",
+      "folder": "artifact-template-financial-budget",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget"
+    },
+    {
+      "name": "artifact-template-investment-committee-memo",
+      "folder": "artifact-template-investment-committee-memo",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo"
+    },
+    {
+      "name": "artifact-template-legal-memorandum",
+      "folder": "artifact-template-legal-memorandum",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum"
+    },
+    {
+      "name": "artifact-template-market-trends-report",
+      "folder": "artifact-template-market-trends-report",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report"
+    },
+    {
+      "name": "artifact-template-minimal-letterhead",
+      "folder": "artifact-template-minimal-letterhead",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead"
+    },
+    {
+      "name": "artifact-template-operating-calendar",
+      "folder": "artifact-template-operating-calendar",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar"
+    },
+    {
+      "name": "artifact-template-operating-review",
+      "folder": "artifact-template-operating-review",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review"
+    },
+    {
+      "name": "artifact-template-project-kickoff",
+      "folder": "artifact-template-project-kickoff",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff"
+    },
+    {
+      "name": "artifact-template-project-tracker",
+      "folder": "artifact-template-project-tracker",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker"
+    },
+    {
+      "name": "artifact-template-sales-pipeline",
+      "folder": "artifact-template-sales-pipeline",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline"
+    },
+    {
+      "name": "artifact-template-simple-dark-mode",
+      "folder": "artifact-template-simple-dark-mode",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode"
+    },
+    {
+      "name": "artifact-template-simple-light-mode",
+      "folder": "artifact-template-simple-light-mode",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode"
+    },
+    {
+      "name": "artifact-template-strategy-memorandum",
+      "folder": "artifact-template-strategy-memorandum",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum"
+    },
+    {
+      "name": "artifact-template-system-design",
+      "folder": "artifact-template-system-design",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design"
+    },
+    {
+      "name": "artifact-template-team-alignment",
+      "folder": "artifact-template-team-alignment",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment"
+    },
+    {
+      "name": "artifact-template-three-statement-forecast",
+      "folder": "artifact-template-three-statement-forecast",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast",
+      "source": "plugins/cache/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast"
+    },
+    {
+      "name": "maintain-space",
+      "folder": "maintain-space",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/pages/0.1.26/skills/maintain-space",
+      "source": "plugins/cache/openai-curated-remote/pages/0.1.26/skills/maintain-space"
+    },
+    {
+      "name": "manage-schedules",
+      "folder": "manage-schedules",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/pages/0.1.26/skills/manage-schedules",
+      "source": "plugins/cache/openai-curated-remote/pages/0.1.26/skills/manage-schedules"
+    },
+    {
+      "name": "organize-space",
+      "folder": "organize-space",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/pages/0.1.26/skills/organize-space",
+      "source": "plugins/cache/openai-curated-remote/pages/0.1.26/skills/organize-space"
+    },
+    {
+      "name": "write-page",
+      "folder": "write-page",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/pages/0.1.26/skills/write-page",
+      "source": "plugins/cache/openai-curated-remote/pages/0.1.26/skills/write-page"
+    },
+    {
+      "name": "create-plugin",
+      "folder": "create-plugin",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/plugin-creator/0.1.28/skills/create-plugin",
+      "source": "plugins/cache/openai-curated-remote/plugin-creator/0.1.28/skills/create-plugin"
+    },
+    {
+      "name": "prepare-plugin-submission",
+      "folder": "prepare-plugin-submission",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/plugin-creator/0.1.28/skills/prepare-plugin-submission",
+      "source": "plugins/cache/openai-curated-remote/plugin-creator/0.1.28/skills/prepare-plugin-submission"
+    },
+    {
+      "name": "update-plugin",
+      "folder": "update-plugin",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/plugin-creator/0.1.28/skills/update-plugin",
+      "source": "plugins/cache/openai-curated-remote/plugin-creator/0.1.28/skills/update-plugin"
+    },
+    {
+      "name": "plugin-management",
+      "folder": "plugin-management",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/plugin-management/0.1.0/skills/plugin-management",
+      "source": "plugins/cache/openai-curated-remote/plugin-management/0.1.0/skills/plugin-management"
+    },
+    {
+      "name": "sites",
+      "folder": "sites",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/sites/1.1.6/skills/sites",
+      "source": "plugins/cache/openai-curated-remote/sites/1.1.6/skills/sites"
+    },
+    {
+      "name": "sites-remix",
+      "folder": "sites-remix",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/sites/1.1.6/skills/sites-remix",
+      "source": "plugins/cache/openai-curated-remote/sites/1.1.6/skills/sites-remix"
+    },
+    {
+      "name": "create-pet",
+      "folder": "create-pet",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/work-pets/0.1.6/skills/create-pet",
+      "source": "plugins/cache/openai-curated-remote/work-pets/0.1.6/skills/create-pet"
+    },
+    {
+      "name": "pets",
+      "folder": "pets",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/work-pets/0.1.6/skills/pets",
+      "source": "plugins/cache/openai-curated-remote/work-pets/0.1.6/skills/pets"
+    },
+    {
+      "name": "update-pet",
+      "folder": "update-pet",
+      "category": "plugin",
+      "path": "skills/plugins/openai-curated-remote/work-pets/0.1.6/skills/update-pet",
+      "source": "plugins/cache/openai-curated-remote/work-pets/0.1.6/skills/update-pet"
+    },
+    {
+      "name": "documents",
+      "folder": "documents",
+      "category": "plugin",
+      "path": "skills/plugins/openai-primary-runtime/documents/26.1026.10807/skills/documents",
+      "source": "plugins/cache/openai-primary-runtime/documents/26.1026.10807/skills/documents"
+    },
+    {
+      "name": "pdf",
+      "folder": "pdf",
+      "category": "plugin",
+      "path": "skills/plugins/openai-primary-runtime/pdf/26.1026.10807/skills/pdf",
+      "source": "plugins/cache/openai-primary-runtime/pdf/26.1026.10807/skills/pdf"
+    },
+    {
+      "name": "Presentations",
+      "folder": "presentations",
+      "category": "plugin",
+      "path": "skills/plugins/openai-primary-runtime/presentations/26.1026.10807/skills/presentations",
+      "source": "plugins/cache/openai-primary-runtime/presentations/26.1026.10807/skills/presentations"
+    },
+    {
+      "name": "excel-live-control",
+      "folder": "excel-live-control",
+      "category": "plugin",
+      "path": "skills/plugins/openai-primary-runtime/spreadsheets/26.1026.10807/skills/excel-live-control",
+      "source": "plugins/cache/openai-primary-runtime/spreadsheets/26.1026.10807/skills/excel-live-control"
+    },
+    {
+      "name": "Spreadsheets",
+      "folder": "spreadsheets",
+      "category": "plugin",
+      "path": "skills/plugins/openai-primary-runtime/spreadsheets/26.1026.10807/skills/spreadsheets",
+      "source": "plugins/cache/openai-primary-runtime/spreadsheets/26.1026.10807/skills/spreadsheets"
+    },
+    {
+      "name": "template-creator",
+      "folder": "template-creator",
+      "category": "plugin",
+      "path": "skills/plugins/openai-primary-runtime/template-creator/26.1026.10807/skills/template-creator",
+      "source": "plugins/cache/openai-primary-runtime/template-creator/26.1026.10807/skills/template-creator"
+    }
+  ]
+}
